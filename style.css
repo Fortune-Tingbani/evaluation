@@ -1,0 +1,17 @@
+.nav{
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.list{
+    display: flex;
+    flex-direction: row;
+    text-align: end;
+    text-indent: 0px;
+    margin: 10px;
+    padding: 30px;
+    list-style: none;
+}
